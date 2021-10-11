@@ -1,0 +1,15 @@
+{
+  "name": "total-deposit-withdrawal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "SullFurix <sull.furix@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "web3": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node ./index"
+  }
+}
